@@ -10,3 +10,7 @@
 .text {
     text-align: justify;
 }
+
+img {
+    margin: 20px;
+}
